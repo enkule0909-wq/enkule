@@ -5,7 +5,7 @@
 	<title>welcome to enkule</title>
 <head>
 <body>
-	<hl>welcome to laboratory 1</hl>
-	<p>lorem ipsum dolor sit amet, .</p>
+	<hl>welcome to home 1</hl>
+	<p>amjilt husii .</p>
 </body>
 </html>
