@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>welcome to internet technology fundamentals</title>
+	<title>welcome to enkule</title>
 <head>
 <body>
 	<hl>welcome to laboratory 1</hl>
